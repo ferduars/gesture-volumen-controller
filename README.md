@@ -20,3 +20,10 @@ The system calculates the **Euclidean Distance** between the thumb (Landmark 4) 
 2. Install dependencies: `pip install -r requirements.txt`.
 3. Download the `hand_landmarker.task` model and place it in the project root.
 4. Run `python main.py`.
+
+## 🔎 Example of use 
+
+
+https://github.com/user-attachments/assets/d0713a55-7705-4550-84ce-a49769a9cc51
+
+
