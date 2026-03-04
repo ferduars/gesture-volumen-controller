@@ -23,7 +23,8 @@ The system calculates the **Euclidean Distance** between the thumb (Landmark 4) 
 
 ## 🔎 Example of use 
 
+https://github.com/user-attachments/assets/9ff6251e-e338-4abe-9708-e7bac1485436
 
-https://github.com/user-attachments/assets/d0713a55-7705-4550-84ce-a49769a9cc51
+
 
 
